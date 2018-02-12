@@ -1,0 +1,110 @@
+ul{list-style-type: none;
+margin: 0px;
+padding: 0px;
+overflow: hidden;
+}
+.li{
+    float:left;margin-top:0%;  
+}
+.li a{display: block;
+width: 60px;
+background-color: rgb(255, 255, 255);
+text-align: right;
+padding: 10px 15px;
+text-decoration:none;
+color: turquoise;}
+
+
+.li a:hover{ background-color: turquoise;
+color: azure;
+}
+.li{
+    color: turquoise;}
+  
+    .box-img{width: 1190px; height: 800px;}   
+
+   .pad{float: left; margin-top:20px;} 
+
+.box{
+    background-color:turquoise;
+    color: azure;
+    height: 160px;
+    width: 200px;
+    font-size: 30px;
+}
+.box-a{background-color:azure;
+color: turquoise;
+height: 20px;
+width: 200px;
+font-size: 18px;}
+
+
+
+
+div.box h1{padding: 32% 0%;
+    text-align: center;}
+
+    div.box-a p{ padding: 5% 0%;
+    text-align: center;}
+      
+    header.shadow{
+        z-index: 1;
+    }
+     .shadow{padding: 40px;
+ 
+     box-shadow: 0 2px 5px 0 rgba(19, 19, 19, 0.342), 0 2px 10px 0 rgba(29, 29, 29, 0.144);;}
+ .l{
+    float:left;margin-top:0px; color: turquoise;  
+}
+.box-b{width: 1190px;height: 500px; 
+color: turquoise;
+}
+p{color: turquoise; }
+
+.form-z {
+    background-color: rgb(255, 255, 255);
+    margin: 2%;
+    top: 0;
+    padding: 5% 0%;
+}
+.form{
+    background-color:azure;
+    margin: 10%;
+    border-radius: 8px;
+}
+.button {
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+    margin: 3% 0% 0% 0%;
+    color:azure;
+    font-size: 15px;
+    background-color:turquoise;}
+    
+  .input {
+    height: 20px;
+    width: 100%;
+    font-size: 18px;
+}
+.magin{margin-top: 2%;}
+.m-tom{margin-bottom: 5%;}
+
+.article {
+    height: 200px;
+    float: left;
+    margin: 0% 0% 20% 5%;
+}
+
+.sas{ width: 100%;
+    overflow: hidden;
+    border: 5px solid black;
+    color:aliceblue;
+    background-color: black
+};
+
+.bar-bottom {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    bottom: 0;
+}
